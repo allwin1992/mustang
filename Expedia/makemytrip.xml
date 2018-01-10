@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="MakeMyTrip">
+	<test name="FlightCount" preserve-order="true">
+		<classes>
+			<class name="Qtech.Expedia.ExpediaSearch" />
+		</classes>
+	</test>
+</suite>

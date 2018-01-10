@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MakeMyTrip" duration-ms="46646" started-at="2018-01-10T18:15:02Z" finished-at="2018-01-10T18:15:49Z">
+    <groups>
+    </groups>
+    <test name="FlightCount" duration-ms="46646" started-at="2018-01-10T18:15:02Z" finished-at="2018-01-10T18:15:49Z">
+      <class name="Qtech.Expedia.ExpediaSearch">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Qtech.Expedia.ExpediaSearch@8bd1b6a]" name="beforeMethod" is-config="true" duration-ms="18324" started-at="2018-01-10T23:45:02Z" finished-at="2018-01-10T23:45:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:Qtech.Expedia.ExpediaSearch@8bd1b6a]" name="f" duration-ms="25243" started-at="2018-01-10T23:45:20Z" finished-at="2018-01-10T23:45:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Qtech.Expedia.ExpediaSearch@8bd1b6a]" name="afterMethod" is-config="true" duration-ms="3001" started-at="2018-01-10T23:45:46Z" finished-at="2018-01-10T23:45:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Qtech.Expedia.ExpediaSearch -->
+    </test> <!-- FlightCount -->
+  </suite> <!-- MakeMyTrip -->
+</testng-results>
